@@ -1,4 +1,4 @@
-# osBot
+# OSBot
 <b>It is a prefix based Discord Bot Created in Node.js</b>
 
 # Setting up Locally
